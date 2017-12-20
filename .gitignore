@@ -23,7 +23,6 @@ log/
 .project
 .settings/
 **/classes
-**/WEB-INF/lib
 
 .springBeans
 
